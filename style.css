@@ -1,0 +1,13 @@
+#page {
+max-width: 2000px;
+min-width: 720px;
+margin: 10px auto 10px auto;
+padding: 20px;
+background-color: #F0F8FF;
+}
+
+.header {
+height: 40px;
+background-color: #A52A2A;
+}
+
