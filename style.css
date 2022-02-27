@@ -3,11 +3,18 @@ max-width: 2000px;
 min-width: 720px;
 margin: 10px auto 10px auto;
 padding: 20px;
-background-color: #F0F8FF;
+background-color: #D3D3D3;
 }
 
-.header {
-height: 40px;
-background-color: #A52A2A;
+.header
+{
+	height: 40px;
+	background-color: #D3D3D3;
+}
+
+h1
+{
+	color: black;
+	font-family: Avenir;
 }
 
